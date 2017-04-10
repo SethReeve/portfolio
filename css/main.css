@@ -1,0 +1,53 @@
+
+/********
+ Phonts
+********/
+
+
+@font-face {
+    font-family: 'yokawerad';
+    src: url('fonts/yokawerad-webfont-2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'exo2';
+    src: url('fonts/exo2-medium-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+
+
+p {
+
+	font-family: 'yokawerad', serif;
+
+
+
+}
+
+h2 {
+
+	font-family: 'yokawerad', serif;
+
+
+
+}
+
+
+a h4 {
+	color: #847996;
+}
+
+
+
+
+
+
