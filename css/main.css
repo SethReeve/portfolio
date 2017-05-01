@@ -19,15 +19,32 @@
     font-style: normal;
 }
 
+
+/*********
+	Middle Red Purple- #140152
+	Raisin Black- #25291c
+	Black Olive- 393e41
+	RHYTHM- #847996
+	Anti-flash white- #e8f1f2
+*********/
 h1 {
 	font-size: 48px;
+	font-family: 'exo2';
+	padding: 10px 10px 10px 10px;
+	color: #e8f1f2;
 }
 
+body {
+	background-color: #393e41;
+
+}
 
 
 p {
 
 	font-family: 'yokawerad', serif;
+	color: #e8f1f2;
+
 
 
 
@@ -42,8 +59,27 @@ h2 {
 }
 
 
-a h4 {
+a {
 	color: #847996;
+}
+
+a.selected, a:hover {
+	color: 
+}
+
+
+.topimg  img{
+
+	padding: 20px 20px;
+	margin: 20px 20px;
+}
+
+
+
+.me img {
+	max-width: 100%;
+	padding: 5px 0 5px 0;
+
 }
 
 
@@ -51,3 +87,134 @@ a h4 {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+
+
+
+
+}
